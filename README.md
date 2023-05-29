@@ -2,6 +2,23 @@
 ## Objective
 The objective of this repository is to facilitate collaborative note-taking and knowledge sharing among UPSC aspirants. By pooling our resources, we can create a valuable collection of study materials, including subject notes, summaries, practice questions, and other relevant resources. Together, we can enhance our preparation and increase our chances of success in UPSC examinations.
 
+## Structure
+├───Agriculture  
+├───Current Affairs  
+│   └───June 2023  
+├───Economy  
+├───Environment and Ecology  
+├───Geography  
+│   └───Indian Geography  
+├───History  
+├───International Relations  
+├───Optionals  
+├───PT-365  
+├───Reports and Indices  
+├───Science and Technology  
+│   └───Nuclear Power  
+└───Social Issues  
+
 ## How to Contribute
 We encourage you to contribute to this repository by sharing your notes, insights, and study materials. Here's how you can get started:
 
@@ -14,6 +31,7 @@ We encourage you to contribute to this repository by sharing your notes, insight
 ### Please follow these guidelines when contributing:
 
 Keep the notes organized and structured for easy navigation and understanding.  
+Keep the folder structure updated in the ReadMe
 Use clear and concise language in your notes.  
 Cite sources and provide references wherever necessary to maintain credibility.  
 Respect copyright and avoid plagiarism. Make sure your contributions are original or properly attributed.  
